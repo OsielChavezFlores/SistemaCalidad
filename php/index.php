@@ -1,5 +1,5 @@
 <?php
 
-	
+	$nombre = "Gato";
 
 ?>
